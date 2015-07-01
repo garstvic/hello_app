@@ -1,4 +1,4 @@
-#Ruby on Rails Tutorial: "Hello World!"
+#Ruby on Rails Tutorial: "Hello Liza! :D"
 
 Это первое приложение для
 [*Ruby on Rails Tutorials*](http://www.railstutorial.org/)
